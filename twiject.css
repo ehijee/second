@@ -1,0 +1,116 @@
+html {
+    background-color: #e6ecf0;
+    font-family: 'Lobster', cursive;
+    font-size: 100%
+}
+body {
+    margin: 30px;
+}
+.background-default{
+    background-color: #e6ecf0;
+}
+.bg-white{
+    background-color: #ffffff;
+}
+
+body {
+    margin: 30px;
+}
+.twitter-btn{    
+    background-color: white;
+    border: 1px solid aqua;
+    color: aqua;
+    font-weight: bold;
+    padding: 5px 20px 5px 20px;
+    font-size: 12px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.twitter-btn:hover{
+    background-color: red;
+    color: white
+}
+.tweets-btn{    
+    background-color: white;
+    border: 1px solid aqua;
+    color: aqua;
+    font-weight: bold;
+    padding: 5px 20px 5px 20px;
+    font-size: 12px;
+    border-radius: 20px;
+}
+.text-line{
+    font-size: 10px;
+    font-weight: light;
+    color:gray;
+    cursor: pointer;
+}
+.text-line:hover{
+    background-color: aqua;
+    color: #ffffff
+}
+.number-line{
+    font-size: 20px;
+    font-weight: bold;
+    color: aqua;
+    cursor: pointer;
+}
+.number-line:hover{
+    background-color: gray;
+    color: aqua
+}
+.design{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
+.design1:hover{
+    text-decoration: underline
+}
+.design1{
+    font-size: 16px;
+    font-weight: 600;
+    color: aqua;
+    cursor: pointer;
+}
+
+.design-text{
+    color: grey;
+    font-size: 10px;
+    cursor: pointer;
+}
+.design2{
+    font-weight: 100;
+    cursor: pointer;
+    font-size: smaller
+}
+.design2:hover{
+    text-decoration: underline
+}
+.crown{
+    height: 50px;
+    text-align: center;
+    margin-bottom: 2px
+}
+.crown img{
+    width: 50px;
+}
+.newtweet{
+    cursor: pointer;
+    background-color: aqua;
+    padding: 5px 50px 5px 50px;
+    font-size: 15px;
+}
+.newtweet:hover{
+    background-color: gray;
+    color: pink
+}
+.myhomebtn{
+    color: rgb(73, 158, 158); 
+    font-size: 20px; 
+    cursor: pointer;
+}
+.myhomebtn:hover{
+    background-color: grey;
+    color: aqua
+}
